@@ -1,0 +1,6 @@
+{
+    "basecommand": "catt",
+    "volume_increment": 10,
+    "rewind_amount": 15,
+    "seek_amount": 15
+}
